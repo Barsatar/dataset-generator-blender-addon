@@ -1,2 +1,4 @@
-# Dataset_Generator_Addon_For_Blender
-An add-on for Blender that allows you to generate and visualize three-dimensional scenes that can be automatically marked up and used for training neural networks.
+<picture>
+ <img alt="Banner" src="https://github.com/Barsatar/Dataset_Generator_Addon_For_Blender/assets/61797005/26a39b03-83f4-46c9-adc3-56568467b942">
+</picture>
+
