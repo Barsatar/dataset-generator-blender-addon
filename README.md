@@ -1,6 +1,6 @@
 <p align="left">
  <a href="https://github.com/Barsatar/dataset-generator-blender-addon/blob/main/README.ru.md"><img src="https://img.shields.io/badge/RU-grey"></a>
- <a href=""><img src="https://img.shields.io/badge/EN-grey"></a>
+ <a href="https://github.com/Barsatar/dataset-generator-blender-addon/blob/main/README.md"><img src="https://img.shields.io/badge/EN-grey"></a>
 </p>
 
 <picture>
