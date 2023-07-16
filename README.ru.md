@@ -1,3 +1,8 @@
+<p align="left">
+ <a href="https://github.com/Barsatar/dataset-generator-blender-addon/blob/main/README.ru.md"><img src="https://img.shields.io/badge/RU-grey"></a>
+ <a href="https://github.com/Barsatar/dataset-generator-blender-addon/blob/main/README.md"><img src="https://img.shields.io/badge/EN-grey"></a>
+</p>
+
 <picture>
  <img src="https://github.com/Barsatar/Dataset_Generator_Addon_For_Blender/assets/61797005/26a39b03-83f4-46c9-adc3-56568467b942">
 </picture>
