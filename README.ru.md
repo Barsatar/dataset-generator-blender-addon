@@ -258,7 +258,7 @@
 
 <h1>Лицензия</h1>
 
-Дополнение **Dataset Generator** для трёхмерного редактора Blender распространяется под [лицензией MIT](https://github.com/Barsatar/dataset-generator-blender-addon/blob/main/LICENSE.md).
+Дополнение **Dataset Generator** для трёхмерного редактора Blender распространяется под [лицензией MIT](https://github.com/Barsatar/dataset-generator-blender-addon/blob/main/LICENSE.ru.md).
 
 <h1>От автора</h1>
 
