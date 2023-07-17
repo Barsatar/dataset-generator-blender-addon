@@ -379,7 +379,7 @@
  + **«Mask render»** is a panel component that allows you to select the state of rendering masks for the object model copies used in scene generation. When active, the masks for the object model copies will be rendered.
 
    <picture>
-    <img src="https://github.com/Barsatar/dataset-generator-blender-addon/assets/61797005/e9abbd97-83b5-4b0c-922f-9d3c23ff38c3" height=350>
+    <img src="https://github.com/Barsatar/dataset-generator-blender-addon/assets/61797005/e9abbd97-83b5-4b0c-922f-9d3c23ff38c3" width=1000>
    </picture>
    
    When the mask rendering mode is active, in addition to visualizing the main scene, masks for all object model copies used in scene generation will also be visualized. The generated masks can be divided into two types: object masks (for object model copies that are within the camera's field of view) and «dark masks» (for object model copies that are outside the camera's field of view).
